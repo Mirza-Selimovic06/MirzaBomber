@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mirza.Selimovic06
-- 👀 I’m interested in coding, and mechanical engineering
+- 👋 Hi, I’m @MirzaSelimovic06
+- 👀 I’m interested in coding, and software development
 - 🌱 I’m currently learning coding
 - 📫 How to reach me mselimovic.8@gmail.com
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MirzaBomber
+- 👋 Hi, I’m @Mirza.Selimovic06
 - 👀 I’m interested in coding, and mechanical engineering
 - 🌱 I’m currently learning coding
 - 📫 How to reach me mselimovic.8@gmail.com
